@@ -1,0 +1,9 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"E:\UnrealProject\NewMixDemo\Plugins\MixedRealityOutputPlugin\Intermediate\Build\Win64\UE4\DebugGame\MixedRealityOutputPlugin\PCH.MixedRealityOutputPlugin.h.obj"
+"E:\UnrealProject\NewMixDemo\Plugins\MixedRealityOutputPlugin\Intermediate\Build\Win64\UE4\DebugGame\MixedRealityOutputPlugin\Module.MixedRealityOutputPlugin.cpp.obj"
+"E:\UnrealProject\NewMixDemo\Plugins\MixedRealityOutputPlugin\Intermediate\Build\Win64\UE4\DebugGame\MixedRealityOutputPlugin\Module.MixedRealityOutputPlugin.gen.cpp.obj"
+"E:\UnrealProject\NewMixDemo\Intermediate\Build\Win64\UE4\DebugGame\MixedRealityOutputPlugin\PCLaunch.rc.res"
+/OUT:"E:\UnrealProject\NewMixDemo\Plugins\MixedRealityOutputPlugin\Binaries\Win64\UE4-MixedRealityOutputPlugin-Win64-DebugGame.lib"
